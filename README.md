@@ -12,7 +12,7 @@ This repository exemplifies basic concepts for developing sound and music system
 > 
 >>**Content** | This is the main content folder present in all UE projects.
 >>
->>> **01_HelloWorld** | All example node graphs (sources and patches) are contained in numbered folders like this one with sub-folders for each asset type.
+>>> **01_HelloWorld** | All example node graphs (sources, patches and blueprints) are contained in numbered folders like this one with sub-folders for each asset type.
 >>> 
 >>> > **MetaSounds** | This folder contains the MetaSounds *Sources* for each example.
 >>> > 
