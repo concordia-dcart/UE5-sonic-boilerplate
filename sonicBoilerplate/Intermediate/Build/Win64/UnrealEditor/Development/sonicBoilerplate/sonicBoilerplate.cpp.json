@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\kisho\\documents\\github\\ue5-sonic-boilerplate\\sonicboilerplate\\source\\sonicboilerplate\\sonicboilerplate.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\kisho\\documents\\github\\ue5-sonic-boilerplate\\sonicboilerplate\\intermediate\\build\\win64\\sonicboilerplateeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\kisho\\documents\\github\\ue5-sonic-boilerplate\\sonicboilerplate\\intermediate\\build\\win64\\unrealeditor\\development\\sonicboilerplate\\definitions.sonicboilerplate.h",
+            "c:\\users\\kisho\\documents\\github\\ue5-sonic-boilerplate\\sonicboilerplate\\source\\sonicboilerplate\\sonicboilerplate.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

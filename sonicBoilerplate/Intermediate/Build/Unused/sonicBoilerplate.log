@@ -1,0 +1,16 @@
+﻿  Using bundled DotNet SDK
+  Log file: C:\Users\kisho\AppData\Local\UnrealBuildTool\Log.txt
+  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\kisho\Documents\GitHub\UE5-sonic-boilerplate).
+  Building sonicBoilerplateEditor...
+  Using Visual Studio 2019 14.29.30152 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\VC\Tools\MSVC\14.29.30133) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  [Adaptive Build] Excluded from sonicBoilerplate unity file: DynamicWavePlayer.cpp, FloatingActor.cpp, sonicBoilerplate.cpp
+  Determining max actions to execute in parallel (8 physical cores, 16 logical cores)
+    Executing up to 8 processes, one per physical core
+    Requested 1.5 GB free memory per action, 3.79 GB available: limiting max parallel actions to 2
+  Building 4 actions with 2 processes...
+  [1/4] Compile DynamicWavePlayer.cpp
+C:\Users\kisho\Documents\GitHub\UE5-sonic-boilerplate\sonicBoilerplate\Source\sonicBoilerplate\DynamicWavePlayer.cpp(30): error C2653: 'UGameplayStatics': is not a class or namespace name
+C:\Users\kisho\Documents\GitHub\UE5-sonic-boilerplate\sonicBoilerplate\Source\sonicBoilerplate\DynamicWavePlayer.cpp(30): error C3861: 'SpawnSoundAttached': identifier not found
+C:\Users\kisho\Documents\GitHub\UE5-sonic-boilerplate\sonicBoilerplate\Source\sonicBoilerplate\DynamicWavePlayer.cpp(34): error C2027: use of undefined type 'UAudioComponent'
+  C:\Program Files\Epic Games\UE_5.0\Engine\Source\Runtime\Engine\Public\Audio.h(90): note: see declaration of 'UAudioComponent'
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.MakeFile.Targets(44,5): error MSB3073: The command ""C:\Program Files\Epic Games\UE_5.0\Engine\Build\BatchFiles\Build.bat" sonicBoilerplateEditor Win64 Development -Project="C:\Users\kisho\Documents\GitHub\UE5-sonic-boilerplate\sonicBoilerplate\sonicBoilerplate.uproject" -WaitMutex -FromMsBuild" exited with code 6.

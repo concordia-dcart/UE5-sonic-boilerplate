@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\kisho\\Documents\\GitHub\\UE5-sonic-boilerplate\\sonicBoilerplate\\Source\\sonicBoilerplate\\sonicBoilerplate.Build.cs",
+		"C:\\Users\\kisho\\Documents\\GitHub\\UE5-sonic-boilerplate\\sonicBoilerplate\\Source\\sonicBoilerplate.Target.cs",
+		"C:\\Users\\kisho\\Documents\\GitHub\\UE5-sonic-boilerplate\\sonicBoilerplate\\Source\\sonicBoilerplateEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.3"
+}

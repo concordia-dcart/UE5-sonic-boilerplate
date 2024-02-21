@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\sonicBoilerplate.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\sonicBoilerplate.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\sonicBoilerplateEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\sonicBoilerplate">
+      <UniqueIdentifier>{949FFE54-80CE-33BA-836F-D69E154701AB}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\sonicBoilerplate\DynamicWavePlayer.cpp">
+      <Filter>Source\sonicBoilerplate</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\sonicBoilerplate\DynamicWavePlayer.h">
+      <Filter>Source\sonicBoilerplate</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\sonicBoilerplate\FloatingActor.cpp">
+      <Filter>Source\sonicBoilerplate</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\sonicBoilerplate\FloatingActor.h">
+      <Filter>Source\sonicBoilerplate</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\sonicBoilerplate\sonicBoilerplate.Build.cs">
+      <Filter>Source\sonicBoilerplate</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\sonicBoilerplate\sonicBoilerplate.cpp">
+      <Filter>Source\sonicBoilerplate</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\sonicBoilerplate\sonicBoilerplate.h">
+      <Filter>Source\sonicBoilerplate</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "sonicBoilerplate",
+			"Path": "C:\\Users\\kisho\\Documents\\GitHub\\UE5-sonic-boilerplate\\sonicBoilerplate\\Source\\sonicBoilerplate.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "sonicBoilerplateEditor",
+			"Path": "C:\\Users\\kisho\\Documents\\GitHub\\UE5-sonic-boilerplate\\sonicBoilerplate\\Source\\sonicBoilerplateEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
